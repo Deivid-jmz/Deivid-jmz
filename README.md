@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Deivid-jmz
-- 👀 I’m interested in Java & Android
-- 🌱 I’m currently learning Android
+- 👋 Hi, I’m @dubisdev
+- 👀 I’m interested in Javascript! 
+- 🌱 I’m currently creating a Cerebro plugin :)
 
 
 
